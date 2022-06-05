@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:sujamanoj/myecom-backend.git"
+    "url": "git+ssh://git@github.com/sujamanoj/myecom-backend.git"
   },
   "keywords": [],
   "author": "Suja",
@@ -24,5 +24,9 @@
     "express": "^4.18.1",
     "mysql2": "^2.1.0",
     "sequelize": "^5.22.5"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/sujamanoj/myecom-backend/issues"
+  },
+  "homepage": "https://github.com/sujamanoj/myecom-backend#readme"
 }
