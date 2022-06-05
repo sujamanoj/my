@@ -14,7 +14,7 @@ Usage:
 For testing
 
 Credits:
-Joshua Christianson
+Suja Manoj
 
 License:
 License: MIT
